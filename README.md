@@ -18,10 +18,11 @@
 | Server & Admin                   | 6 host         | /28     |
 | Sekretariat                      | 380 host       | /23     |
 | Router Interlink                 | 6 host         | /29     |
-| **TOTAL**                        | **770 host**   | **/22** |
+| Tunnel/Point to point            | 2 host         | /30     |
+| **TOTAL**                        | **778 host**   | **/22** |
 
 **IP Prefix:** `10.143.0.0/22`  
-Total Host: **770** host
+Total Host: **778** host
 
 ---
 
